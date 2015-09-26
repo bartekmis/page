@@ -1,0 +1,11 @@
+{
+    "name": "bartekmis/page",
+    "description": "Alfred Page  module.",
+    "keywords": ["yourapplication", "module", "page"],
+    "require": {
+        "caffeinated/shinobi": "~2.0"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
